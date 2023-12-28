@@ -1,0 +1,18 @@
+Client IP: 127.0.0.1
+Client Port: 35476
+Storage Server Index: -1
+Request: copy_file dir_juqmm/big_dir_test/med_file_10MB.txt dir_bzaca/
+Acknowledgement: Not found
+---------------------------
+Client IP: 127.0.0.1
+Client Port: 35476
+Storage Server Index: -1
+Request: copy_file dir_juqnm/big_dir_test/med_file_10MB.txt dir_bzaca/
+Acknowledgement: 
+---------------------------
+Client IP: 127.0.0.1
+Client Port: 35476
+Storage Server Index: 2
+Request: copy_file dir_juqnm/big_dir_test/med_file_15MB.txt dir_bzaca/
+Acknowledgement: Success
+---------------------------
